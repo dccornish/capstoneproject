@@ -1,5 +1,8 @@
 # capstoneproject
-UPenn Cybersecurity Capstone Project Details
+
+This project was completed by David Cornish during cyber security bootcamp at UPenn. 
+
+UPenn Cybersecurity Capstone Project Details:
 
 Network Topology
 
